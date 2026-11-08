@@ -2,8 +2,8 @@
 :root {
   --color-bg: #f7f8fc;        /* фон страницы */
   --color-text: #1f2430;      /* основной текст */
-  --color-accent: #3b5bdb;    /* акцентный цвет: кнопки, ссылки */
-  --color-accent-dark: #2f49b0;
+  --color-accent: #e03131;    /* акцентный цвет: кнопки, ссылки */
+  --color-accent-dark: #a61e1e;
   --color-card: #ffffff;      /* фон блоков */
 }
 
